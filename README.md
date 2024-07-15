@@ -3,11 +3,11 @@ An implementation of a spacechain with a mechanism for launching your own
 
 # How to play with it
 
-Go here: https://supertestnet.github.io/spacechain-launcher/
+Go here: https://github.com/Ashar086/Spacechain-launcher
 
 # Video
 
-https://www.youtube.com/watch?v=ajzy_8Nibv8
+https://youtu.be/EKOZcYPTWX8
 
 # Principles of operation
 
